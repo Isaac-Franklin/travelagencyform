@@ -3,8 +3,10 @@ import Form from "./Form"
 
 
 
-function App(){
-    <Form />
+function App2(){
+    return (
+        <Form />
+    )
 }
     
 export default App
